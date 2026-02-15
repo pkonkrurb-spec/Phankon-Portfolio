@@ -10,8 +10,13 @@
   <a href="mailto:pkonkrab@gmail.com">
     <img src="https://img.shields.io/badge/Email-pkonkrab%40gmail.com-grey?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/phankon">
     <img src="https://img.shields.io/badge/LinkedIn-Phankorn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="tel:0937270051">
+    <img src="https://img.shields.io/badge/Phone-093--727--0051-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone">
   </a>
 </div>
 
@@ -53,9 +58,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
         <br>Figma
       </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-        <br>Jira
       </td>
     </tr>
   </table>
@@ -160,3 +162,11 @@
 <div align="center">
   <small>Designed with ❤️ by Phankorn</small>
 </div>
+
+<br>
+<hr>
+
+</div>
+
+<br>
+<br>
