@@ -1,55 +1,162 @@
-# Phankorn Seangmon (Pang) 👋
-### 🎓 Junior Developer & Aspiring Business Analyst
-**College of Arts, Media and Technology (CAMT), Chiang Mai University**
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30"> 
+  <h1>Hi, I'm Phankorn Seangmon</h1>
+  
+  <p>
+    <strong>Business Analyst (BA) & Junior Developer</strong><br>
+    <i>"Crafting user-centric solutions with solid business logic."</i>
+  </p>
 
-I bridge the gap between **Business Logic** and **Technical Solutions**.
-My goal is to leverage technology to solve real-world business problems through **Full-stack Development** and **Systems Analysis**.
+  <a href="mailto:pkonkrab@gmail.com">
+    <img src="https://img.shields.io/badge/Email-pkonkrab%40gmail.com-grey?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/phankon">
+    <img src="https://img.shields.io/badge/LinkedIn-Phankorn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 
----
+<br>
 
-### 🛠️ Technical & Business Skills
+<div align="center">
+  <h3>🚀 About Me</h3>
+  <p width="60%">
+    I am a 3rd-year <b>MMIT student at Chiang Mai University</b>. <br>
+    My expertise lies in bridging the gap between <b>Technical Feasibility</b> and <b>Business Requirements</b>.<br>
+    I build software that not only works well but also serves real business value.
+  </p>
+</div>
 
-| **Development (Dev)** | **Business & Tools (BA)** |
-| :--- | :--- |
-| ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![System Analysis](https://img.shields.io/badge/Skill-System_Analysis-blue?style=flat-square) ![BPMN](https://img.shields.io/badge/Skill-Business_Process-blue?style=flat-square) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Excel VBA](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) |
+<br>
 
----
+<h3 align="center">🛠️ Tech & Tools</h3>
 
-### 🚀 Featured Experience
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo"  />
+        <br>Angular
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+        <br>TypeScript
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+        <br>Python
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+        <br>SQL
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+        <br>Figma
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+        <br>Jira
+      </td>
+    </tr>
+  </table>
+</div>
 
-#### 💻 DegreeFlow (Project Manager & Frontend Dev)
-*A web-based academic pathway system commissioned by Digital Solution Unit, CAMT.*
-- **Role:** Managed the project timeline and developed frontend components using **Angular**.
-- **Impact:** Transformed static curriculum books into an interactive **Learning Pathway Dashboard**.
+<br>
+<br>
 
-#### 📈 R2M - Research to Market (Business Developer)
-*University-level business case competition.*
-- **Role:** Analyzed market feasibility for a medical innovation (Nano Plaster).
-- **Outcome:** Developed a **Business Model Canvas (BMC)** and validated the market size (TAM/SAM/SOM).
+<h3>📂 Featured Projects</h3>
 
----
+<table>
+  <tr>
+    <td width="60%">
+      <h3>🎓 DegreeFlow</h3>
+      <p><b>Role:</b> Project Manager & Frontend Developer</p>
+      <p>
+        An interactive academic pathway system designed to solve the complexity of curriculum planning. 
+        Replaced static PDF guidebooks with a dynamic, user-friendly dashboard.
+      </p>
+      <ul>
+        <li><b>UX/UI:</b> Designed intuitive learning pathways for students.</li>
+        <li><b>Tech:</b> Developed frontend components using <b>Angular</b>.</li>
+        <li><b>Impact:</b> Streamlined course selection process for MMIT students.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### 🏅 Certificates & Achievements
-*(Click on the images to view details)*
+<table>
+  <tr>
+    <td width="60%">
+      <h3>💼 R2M Research to Market</h3>
+      <p><b>Role:</b> Business Developer</p>
+      <p>
+        Analyzed market feasibility for a medical innovation (Nano Plaster). 
+        Focused on commercialization strategy and user validation.
+      </p>
+      <ul>
+        <li><b>Analysis:</b> Conducted TAM/SAM/SOM market sizing.</li>
+        <li><b>Strategy:</b> Developed Business Model Canvas (BMC).</li>
+        <li><b>Validation:</b> Interviewed pharmacists and potential users.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-| **Business Innovation** | **Marketing Strategy** |
-| :---: | :---: |
-| <img src="./Certificate/IMPACT Innovative Entrepreneurship Camp.png" width="300" alt="IMPACT Camp"> <br> **IMPACT Entrepreneurship Camp** | <img src="./Certificate/ISUZU Marketing Plan Competition.png" width="300" alt="ISUZU Plan"> <br> **ISUZU Marketing Plan** |
-| <img src="./Certificate/CMUBS Startup Club MBS.png" width="300" alt="CMUBS Startup"> <br> **CMUBS Startup Club** | <img src="./Certificate/MyOrder Cloud Hero9.png" width="300" alt="MyOrder Cloud"> <br> **MyOrder Cloud Hero9** |
-| <img src="./Certificate/Singha Biz Course Regional Bootcamp.png" width="300" alt="Singha Biz Course"> <br> **Singha Biz Course** | <img src="./Certificate/R2M ระดับมหาลัย.png" width="300" alt="R2M University Level"> <br> **R2M Competition** |
+<br>
 
----
+<h3>🏅 Certification Gallery</h3>
 
-### 🏆 Extracurricular Activities
+<table border="0">
+  <tr>
+    <td width="33%" align="center">
+      <img src="./Certificate/IMPACT Innovative Entrepreneurship Camp.png" width="100%">
+      <br><b>IMPACT Entrepreneurship</b>
+    </td>
+    <td width="33%" align="center">
+      <img src="./Certificate/ISUZU Marketing Plan Competition.png" width="100%">
+      <br><b>ISUZU Marketing Plan</b>
+    </td>
+    <td width="33%" align="center">
+      <img src="./Certificate/MyOrder Cloud Hero9.png" width="100%">
+      <br><b>MyOrder Cloud Hero9</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <img src="./Certificate/Singha Biz Course Regional Bootcamp.png" width="100%">
+      <br><b>Singha Biz Course</b>
+    </td>
+    <td width="33%" align="center">
+      <img src="./Certificate/CMUBS Startup Club MBS.png" width="100%">
+      <br><b>CMUBS Startup Club</b>
+    </td>
+    <td width="33%" align="center">
+      <img src="./Certificate/R2M ระดับมหาลัย.png" width="100%">
+      <br><b>R2M Competition</b>
+    </td>
+  </tr>
+</table>
 
-| **Market Validation Fieldwork** | **Strategic Thinking** |
-| :---: | :---: |
-| <img src="./Activities/R2M.1.JPEG" width="300" alt="R2M Activity"> <br> *Conducting user interviews & surveys* | <img src="./Activities/กระชับมิตร Igo ขอนแก่น.JPG" width="300" alt="Go Game Athlete"> <br> *University Go (Baduk) Athlete* |
+<br>
 
----
+<h3>✨ Activities & Interests</h3>
+<table border="0">
+  <tr>
+     <td width="50%" align="center">
+      <img src="./Activities/R2M.1.JPEG" width="90%" style="border-radius: 10px;">
+      <br>
+      <p><b>Market Validation (R2M)</b><br>On-site user interviews & surveys.</p>
+    </td>
+    <td width="50%" align="center">
+      <img src="./Activities/กระชับมิตร Igo ขอนแก่น.JPG" width="90%" style="border-radius: 10px;">
+      <br>
+      <p><b>Strategic Thinking</b><br>University Go (Baduk) Athlete.</p>
+    </td>
+  </tr>
+</table>
 
-### 📫 Contact Me
-- **Email:** [pkonkrab@gmail.com](mailto:pkonkrab@gmail.com)
-- **LinkedIn:** [linkedin.com/in/phankon](https://www.linkedin.com/in/phankon)
+<br>
+<hr>
+<div align="center">
+  <small>Designed with ❤️ by Phankorn</small>
+</div>
